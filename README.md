@@ -31,7 +31,9 @@ Currently working at **Qbit Tech**, where I develop and maintain powerful softwa
 * 🌐 https://dhakacomputer.com.bd/
 
 ---
-
+🎓 Education
+🎓 B.Sc in Computer Science & Engineering (CSE)
+Green University of Bangladesh
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
